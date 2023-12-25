@@ -1,0 +1,15 @@
+.movieCard {
+    text-align: center;
+    list-style: none;
+    background-color: aquamarine;
+    font-size: 1.5rem;
+    font-style: italic;
+
+  }
+
+.movieImage {
+    border-radius: 20%;
+    width: 230px;
+    height: 345px;
+}
+
